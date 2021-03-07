@@ -1,5 +1,7 @@
 # Animate with React Native! ⏯
 
+# This animation can't be done using Flutter shit UI
+
 ![Animate with React Native](img/animate_with_react_native.png)
 
 ## Demo
